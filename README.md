@@ -1,15 +1,24 @@
-# cokingup
+# https://user-images.githubusercontent.com/100343047/192093208-59b423e0-0afb-4895-a7d5-97b2a4638f92.png Coking Up
 
-A new Flutter project.
+# About Project
 
-## Getting Started
+A simble app help pepole to explore a new meals and food
 
-This project is a starting point for a Flutter application.
+## Tools & package
+- Provider
+- Shared preferences
 
-A few resources to get you started if this is your first Flutter project:
+## Features
+- Filter meals 
+- Add meals to favorite
+- localishion by provider (English & Arabic)
+- Control app theme and theme color from user 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Photos
+![Coking up 5](https://user-images.githubusercontent.com/100343047/192095268-9548595b-c442-4400-a61c-6167b1af0f6f.jpg)
+
+![Coking up1](https://user-images.githubusercontent.com/100343047/192095277-38b1548c-c3f6-4326-bf8e-498d4ce49b82.jpg)
+![Coking up 2](https://user-images.githubusercontent.com/100343047/192095282-d8ac82aa-e55f-425e-aa5a-6f5398148c1b.jpg)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
