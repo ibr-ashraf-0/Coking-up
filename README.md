@@ -1,4 +1,4 @@
-# https://user-images.githubusercontent.com/100343047/192093208-59b423e0-0afb-4895-a7d5-97b2a4638f92.png Coking Up
+# ![flutter_logo](https://user-images.githubusercontent.com/100343047/192093208-59b423e0-0afb-4895-a7d5-97b2a4638f92.png) Coking Up
 
 # About Project
 
