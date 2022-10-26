@@ -18,12 +18,6 @@ A simble app help pepole to explore a new meals and food
 
 ![Coking Up(1)_page-0001](https://user-images.githubusercontent.com/100343047/198028913-0bf6b388-4a37-43fb-a55a-c67cff0172af.jpg)
 
-
-![Coking up 5](https://user-images.githubusercontent.com/100343047/192095268-9548595b-c442-4400-a61c-6167b1af0f6f.jpg)
-
-![Coking up1](https://user-images.githubusercontent.com/100343047/192095277-38b1548c-c3f6-4326-bf8e-498d4ce49b82.jpg)
-![Coking up 2](https://user-images.githubusercontent.com/100343047/192095282-d8ac82aa-e55f-425e-aa5a-6f5398148c1b.jpg)
-
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
